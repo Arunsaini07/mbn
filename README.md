@@ -1,2 +1,1 @@
-# mbn
-kji
+This is my .js 
